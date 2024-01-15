@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "global": "^4.4.0",
+    "zx": "^7.2.3"
+  },
+  "version": "2.39"
+}
