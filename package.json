@@ -1,6 +1,6 @@
 {
   "name": "happyv2",
-  "version": "2.62.0",
+  "version": "10",
   "private": true,
   "scripts": {
     "app": "yarn node bin/www.js",
@@ -88,4 +88,3 @@
     "prettier": "3.1.1"
   }
 }
-
