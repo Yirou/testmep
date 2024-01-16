@@ -1,7 +1,6 @@
 {
   "name": "happyv2",
-  "version": "11",
-
+  "version": "12",
   "private": true,
   "scripts": {
     "app": "yarn node bin/www.js",
@@ -88,8 +87,4 @@
     "mongodb-memory-server": "^9.1.4",
     "prettier": "3.1.1"
   }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> release/v11
